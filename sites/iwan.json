@@ -1,0 +1,32 @@
+{
+  "name": "百度爱玩",
+  "short_name": "百度爱玩",
+  "icons": [
+    {
+      "src": "/resources/iwan/android-chrome-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/resources/iwan/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/resources/iwan/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://lavas.baidu.com/game/?utm_source=homescreen",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "screenshots": [
+    "/resources/iwan/screenshot1.png",
+    "/resources/iwan/screenshot2.png",
+    "/resources/iwan/screenshot3.png"
+  ],
+  "category": "游戏娱乐",
+  "tag": "游戏"
+}

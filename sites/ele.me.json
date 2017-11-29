@@ -1,0 +1,62 @@
+{
+  "name": "饿了么",
+  "short_name": "饿了么",
+  "description": "饿了么是中国专业的网上订餐平台，目前已覆盖北京、上海、杭州、广州等300多个城市，提供各类中式、日式、韩式、西式、下午茶、夜宵等优质美食，并提供送餐上门服务，让订餐更加轻松，叫外卖就上饿了么！",
+  "lang": "cn",
+  "icons": [
+    {
+      "src": "/resources/ele.me/logo-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/resources/ele.me/logo-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/resources/ele.me/logo-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/resources/ele.me/logo-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/resources/ele.me/logo-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/resources/ele.me/logo-36x36.png",
+      "type": "image/png",
+      "sizes": "36x36"
+    }
+  ],
+  "start_url": "https://h5.ele.me/msite/#pwa=true",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0096ff",
+  "background_color": "#fff",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "me.ele",
+      "url": "https://play.google.com/store/apps/details?id=me.ele"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://itunes.apple.com/app/e-le-me-wai-mai-ding-can-mei/id507161324"
+    }
+  ],
+  "screenshots": [
+    "/resources/ele.me/screenshot1.webp",
+    "/resources/ele.me/screenshot2.webp",
+    "/resources/ele.me/screenshot3.webp"
+  ],
+  "tag": "外卖 优惠",
+  "category": "居家生活",
+  "corpration": "拉扎斯网络科技(上海)有限公司"
+}
